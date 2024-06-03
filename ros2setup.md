@@ -90,6 +90,3 @@ ros2 run demo_nodes_py listener
 You should see the talker saying that it’s publishing messages and the listener saying I heard those messages. This verifies both the C++ and Python APIs are working properly.
 
 
-```
-
-
